@@ -1,0 +1,6 @@
+{
+  "name": "Jay Trendz",
+  "description": "Premium offline-first Nigerian fashion e-commerce with seamless home delivery tracking and support chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
